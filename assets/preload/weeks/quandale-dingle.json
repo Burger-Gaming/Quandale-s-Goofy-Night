@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Tarnation",
+			"quandale",
+			[
+				57,
+				54,
+				84
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "quandale",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"quandale-dingle",
+		"bf",
+		"gf"
+	],
+	"storyName": "hey fellas quandale dingle here",
+	"weekName": "Quandale Dingle",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

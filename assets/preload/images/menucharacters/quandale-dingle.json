@@ -1,0 +1,11 @@
+{
+	"idle_anim": "menu quandale idle",
+	"image": "Menu_Quandale-Dingle",
+	"position": [
+		100,
+		120
+	],
+	"flipX": false,
+	"scale": 0.55,
+	"confirm_anim": "M Dad Idle"
+}

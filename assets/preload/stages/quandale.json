@@ -1,0 +1,15 @@
+{
+	"directory": "quandale",
+	"defaultZoom": 0.9,
+	"isPixelStage": false,
+
+	"boyfriend": [782.6, 330.65],
+	"girlfriend": [400, 130],
+	"opponent": [11.4, 115.75],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [-70, -30],
+	"camera_opponent": [70, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}
